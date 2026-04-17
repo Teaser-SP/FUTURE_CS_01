@@ -1,4 +1,4 @@
-# 🔐 Cyber Security Internship — Task 3
+# 🔐 Cyber Security Internship — Task 1
 
 ![Internship](https://img.shields.io/badge/Internship-Future%20Interns-blue?style=for-the-badge)
 ![Task](https://img.shields.io/badge/Task-3%20%7C%20Vulnerability%20Assessment%20Report-red?style=for-the-badge)
